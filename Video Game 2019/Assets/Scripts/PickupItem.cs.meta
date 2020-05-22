@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a050368aa6f9744a99f1e1a172a425c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - key: {fileID: 2273607914533916256, guid: 4f2bccf0d91f246f0965e250988e4072, type: 3}
+  - robot: {fileID: 2273607914533916256, guid: 4f2bccf0d91f246f0965e250988e4072, type: 3}
+  - portfolio: {fileID: 197436377249932515, guid: 51eba9ed709644113a54a828e302a1d6,
+      type: 3}
+  - computer: {fileID: 8078811330776494402, guid: e948ff3ee504c4dd894338f35c742349,
+      type: 3}
+  - ribbon: {fileID: 3450845677312510056, guid: e4ddc794d4c1a4affb1d4b840645418b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
